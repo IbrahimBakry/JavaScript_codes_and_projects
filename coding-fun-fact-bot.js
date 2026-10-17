@@ -9,7 +9,7 @@ const botName = "Bibo";
 const botLocation = "JavaScript";
 const favoriteLanguage = "JS";
 
-// Introduce the bot 
+// Introduce the bot
 console.log("My name is " + botName + " and I live on " + botLocation + ".");
 console.log("My favorite programming language is " + favoriteLanguage + ".");
 
