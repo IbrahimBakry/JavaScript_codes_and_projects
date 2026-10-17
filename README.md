@@ -32,11 +32,11 @@ node filename.js
 
 Or paste the code into your browser console — most of these don't need any setup.
 
-Progress
+## Progress
 
 I'll be updating this repo as I move through the certification. Everything here is for learning, so the code is intentionally simple and beginner-friendly — no clever tricks, no over-engineering. That's the point.
 
-A note
+## A note
 
 If you spot something that could be done better, feel free to open an issue or reach out. I'm still learning, so feedback is genuinely welcome.
 
